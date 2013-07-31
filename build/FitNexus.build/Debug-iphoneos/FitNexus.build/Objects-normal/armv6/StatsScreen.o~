@@ -1,0 +1,12 @@
+/GPS_Paint/Classes/StatsScreen.m: In function '-[StatsScreen viewDidLoad]':
+/GPS_Paint/Classes/StatsScreen.m:82: warning: 'StatsScreen' may not respond to '-setInterfaceOrientation:'
+/GPS_Paint/Classes/StatsScreen.m:82: warning: (Messages without a matching method signature
+/GPS_Paint/Classes/StatsScreen.m:82: warning: will be assumed to return 'id' and accept
+/GPS_Paint/Classes/StatsScreen.m:82: warning: '...' as arguments.)
+/GPS_Paint/Classes/StatsScreen.m: In function '-[StatsScreen getsLoc:::::]':
+/GPS_Paint/Classes/StatsScreen.m:185: warning: 'statsView' may not respond to '-setLLat:'
+/GPS_Paint/Classes/StatsScreen.m:186: warning: 'statsView' may not respond to '-setLLong:'
+/GPS_Paint/Classes/StatsScreen.m:195: warning: control reaches end of non-void function
+/GPS_Paint/Classes/StatsScreen.m: At top level:
+/GPS_Paint/Classes/StatsScreen.m:230: warning: property 'repeatingTimer' requires method '-repeatingTimer' to be defined - use @synthesize, @dynamic or provide a method implementation
+/GPS_Paint/Classes/StatsScreen.m:230: warning: property 'repeatingTimer' requires the method 'setRepeatingTimer:' to be defined - use @synthesize, @dynamic or provide a method implementation

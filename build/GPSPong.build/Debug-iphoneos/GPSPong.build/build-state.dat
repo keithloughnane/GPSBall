@@ -1,0 +1,1358 @@
+TGPSPong
+v7
+r0
+t292092284.857993
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk
+c000000004B47D28D0000000000000110
+t1262998157
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+c000000004A0BA04000000000000001E5
+t1242275904
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004A121FB10000000000193E60
+t1242701745
+s1654368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A121EB900000000003D72A0
+t1242701497
+s4027040
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004A1222C30000000000080DA0
+t1242702531
+s527776
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004A0CD38700000000000001AF
+t1242354567
+s431
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A121FF90000000000396540
+t1242701817
+s3761472
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAECB0000000000001355
+t1242279627
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004A0BC2A5000000000000017D
+t1242284709
+s381
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004A12232A00000000001D2A20
+t1242702634
+s1911328
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBD000000000000075E
+t1242349245
+s1886
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A1221FD00000000019A6110
+t1242702333
+s26894608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/lib/libsqlite3.dylib
+c000000004A121E7D00000000000A9280
+t1242701437
+s692864
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk
+c000000004ABFDAFE0000000000000110
+t1254087422
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+c000000004ABDB88400000000000001E5
+t1253947524
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004ABDBCDC0000000000290670
+t1253948636
+s2688624
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004ABDBC2B00000000000004CF
+t1253948459
+s1231
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDBA1300000000005F4900
+t1253947923
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004ABDD17F0000000000085550
+t1253953919
+s546128
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004ABDD17900000000000001AF
+t1253953913
+s431
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDBDCF0000000000501370
+t1253948879
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDBDA40000000000001355
+t1253948836
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004ABDD364000000000000017D
+t1253954404
+s381
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004ABDD38100000000001CD6E0
+t1253954433
+s1890016
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDD0D10000000000000788
+t1253953745
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDD2250000000001B3F450
+t1253954085
+s28570704
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/usr/include/arpa/inet.h
+c000000004ABDAF5B0000000000001533
+t1253945179
+s5427
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/usr/include/netdb.h
+c000000004ABDAF8C0000000000003057
+t1253945228
+s12375
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/usr/include/netinet/in.h
+c000000004ABDB473000000000000535B
+t1253946483
+s21339
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/usr/include/sys/socket.h
+c000000004ABDB4790000000000005660
+t1253946489
+s22112
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/usr/lib/libsqlite3.dylib
+c000000004ABDB70C000000000010BF50
+t1253947148
+s1097552
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk
+c000000004B79A1A50000000000000110
+t1266262437
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+c000000004B2B3B9F00000000000001E5
+t1261124511
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004B2B548B0000000000290670
+t1261130891
+s2688624
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B537900000000005F4900
+t1261130617
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004B2B61E30000000000084510
+t1261134307
+s541968
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004B2B61D300000000000001AF
+t1261134291
+s431
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B551F0000000000501370
+t1261131039
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B54F40000000000001355
+t1261130996
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004B2B652A000000000000017D
+t1261135146
+s381
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004B2B656100000000001CD6E0
+t1261135201
+s1890016
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61610000000000000788
+t1261134177
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B63DA0000000001B3F450
+t1261134810
+s28570704
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/usr/lib/libsqlite3.dylib
+c000000004B2B5093000000000010BF50
+t1261129875
+s1097552
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004BA82B910000000000000110
+t1269312401
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+c000000004B9F103D00000000000001E5
+t1268715581
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004B9F269700000000001EC0F0
+t1268721303
+s2015472
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AC100000000003B4B70
+t1268792001
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004BA18C6200000000000A9BA0
+t1268878434
+s695200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004BA18C5A00000000000001AF
+t1268878426
+s431
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F26D2000000000036A650
+t1268721362
+s3581520
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F26B90000000000001355
+t1268721337
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004B9F33E8000000000000017D
+t1268724712
+s381
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004B9F3424000000000025D5D0
+t1268724772
+s2479568
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B9F318D000000000000098F
+t1268724109
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B9F32090000000002703230
+t1268724233
+s40907312
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/lib/libsqlite3.dylib
+c000000004B9F1C7800000000000B4CF0
+t1268718712
+s740592
+
+N/Users/keithloughnane/Library/MobileDevice/Provisioning Profiles/4AF72C5D-D2DC-4F62-9E0A-11CF80A85F27.mobileprovision
+c000000004B6FF1E20000000000001BFB
+t1265627618
+s7163
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/AccelGetter.h
+c000000004AA10ACC0000000000000199
+t1252068044
+s409
+i<Foundation/Foundation.h>
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/../AccelGetter.m
+c000000004AAEA270000000000001162D
+t1252958832
+s71213
+i"AccelGetter.h"
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/../DataBaseControler.m
+c000000004B13E430000000000000292C
+t1259594800
+s10540
+i"DataBaseControler.h"
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/../DataPoint.m
+c000000004B0EFA8D00000000000000DD
+t1259272845
+s221
+i"DataPoint.h"
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/../DataPointManager.m
+c000000004AA52BD700000000000000D3
+t1252338647
+s211
+i"DataPointManager.h"
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/../LocationGetter.m
+c000000004B41D2730000000000000604
+t1262604915
+s1540
+i"LocationGetter.h"
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/../MainWindow.xib
+c000000004B4DD1CC00000000000047E9
+t1263391180
+s18409
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/../SecondView.xib
+c000000004AA146050000000000003126
+t1252083205
+s12582
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/../TrainingScreen.m
+c000000004B858EFD0000000000012881
+t1267044093
+s75905
+i"TrainingScreen.h"
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/../TrainingScreen.xib
+c000000004B41CFB900000000000029B9
+t1262604217
+s10681
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/AsyncSocket Documentation.html
+c0000000048A5A9630000000000018F67
+t1218816355
+s102247
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/AsyncSocket.h
+c0000000049E8E5A700000000000042A9
+t1239999911
+s17065
+i<Foundation/Foundation.h>
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/AsyncSocket.m
+c0000000049E8E5A7000000000001565E
+t1239999911
+s87646
+i"AsyncSocket.h"
+i<sys/socket.h>
+i<netinet/in.h>
+i<arpa/inet.h>
+i<netdb.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/Entitlements.plist
+c000000004B4B07F800000000000000E0
+t1263208440
+s224
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/FirstViewController.h
+c000000004A953AFA00000000000000E7
+t1251293946
+s231
+i<UIKit/UIKit.h>
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/FirstViewController.m
+c000000004ACDEA8D00000000000005A0
+t1255008909
+s1440
+i"FirstViewController.h"
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/FitNexusAppDelegate.h
+c000000004A953AFA00000000000001D8
+t1251293946
+s472
+i<UIKit/UIKit.h>
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/FitNexusAppDelegate.m
+c000000004ACDFE3900000000000004BC
+t1255013945
+s1212
+i"FitNexusAppDelegate.h"
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/READ ME.txt
+c0000000049E8E360000000000000019E
+t1239999328
+s414
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/SocialNetScreen.h
+c000000004AA4FD7F00000000000000DF
+t1252326783
+s223
+i<UIKit/UIKit.h>
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/SocialNetScreen.m
+c000000004AA4FD7F000000000000056A
+t1252326783
+s1386
+i"SocialNetScreen.h"
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/SocialNetScreen.xib
+c000000004ACF32BA0000000000005ABA
+t1255092922
+s23226
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/StatsScreen.h
+c000000004B41D2730000000000000533
+t1262604915
+s1331
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i"DataBaseControler.h"
+i"statsView.h"
+i"LocationGetter.h"
+i"DataBaseControler.h"
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/StatsScreen.m
+c000000004B858F0D0000000000001479
+t1267044109
+s5241
+i"StatsScreen.h"
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/StatsScreen.xib
+c000000004B4C6DD4000000000000383A
+t1263300052
+s14394
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/StopWatchScreen.h
+c000000004AA4FD5600000000000000DF
+t1252326742
+s223
+i<UIKit/UIKit.h>
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/StopWatchScreen.m
+c000000004ACC7E130000000000000568
+t1254915603
+s1384
+i"StopWatchScreen.h"
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/StopWatchScreen.xib
+c000000004ACF32E20000000000004715
+t1255092962
+s18197
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/graphView.xib
+c000000004ACC7F5D000000000000170A
+t1254915933
+s5898
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/netCon.h
+c000000004B0D5E3E000000000000030B
+t1259167294
+s779
+i"AsyncSocket.h"
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/netCon.m
+c000000004B13F46E000000000000076D
+t1259598958
+s1901
+i"netCon.h"
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/statsView.h
+c000000004B4B1D32000000000000035A
+t1263213874
+s858
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/statsView.m
+c000000004B4DD52300000000000015EF
+t1263392035
+s5615
+i"statsView.h"
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/DataBaseControler.h
+c000000004B0D5F3D00000000000002EC
+t1259167549
+s748
+i<Foundation/Foundation.h>
+i"/usr/include/sqlite3.h"
+i"netCon.h"
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/DataPoint.h
+c000000004AA52BBF00000000000000D5
+t1252338623
+s213
+i<Foundation/Foundation.h>
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/DataPointManager.h
+c000000004AA52BD700000000000000E3
+t1252338647
+s227
+i<Foundation/Foundation.h>
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/FitNexus_Prefix.pch
+c000000004A953AFA00000000000000B9
+t1251293946
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/GPSBall_Titles.png
+c000000004B4DD0E6000000000000562B
+t1263390950
+s22059
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/LocationGetter.h
+c000000004AA6845B0000000000000237
+t1252426843
+s567
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/TrainingScreen.h
+c000000004B41C9C900000000000004A5
+t1262602697
+s1189
+i<UIKit/UIKit.h>
+i"AccelGetter.h"
+i"LocationGetter.h"
+i"DataBaseControler.h"
+i"statsView.h"
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app
+t1265647447
+s8192
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app.dSYM
+t1265647446
+s0
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app/AsyncSocket Documentation.html
+t1263207199
+s102247
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app/Entitlements.plist
+t1263208441
+s62
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app/GPSBall_Titles.png
+t1263391249
+s21584
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app/GPSPong
+t1263386648
+s159056
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app/Info.plist
+t1263207196
+s610
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app/MainWindow.nib
+t1263391250
+s4054
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app/PkgInfo
+t1263207196
+s8
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app/READ ME.txt
+t1263207199
+s414
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app/ResourceRules.plist
+t1263207196
+s485
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app/SecondView.nib
+t1263207197
+s3437
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app/SocialNetScreen.nib
+t1263207199
+s6772
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app/StatsScreen.nib
+t1263300061
+s2400
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app/StopWatchScreen.nib
+t1263207199
+s4970
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app/TrainingScreen.nib
+t1263207198
+s2049
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app/demostats_merged.png
+t1263207199
+s19112
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app/embedded.mobileprovision
+t1263207202
+s7157
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app/graphView.nib
+t1263207199
+s1106
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/AccelGetter.o
+t1263207201
+s14264
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/AsyncSocket.o
+t1263207202
+s186700
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/DataBaseControler.o
+t1263207201
+s30412
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/DataPoint.o
+t1263207201
+s5072
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/DataPointManager.o
+t1263207201
+s5116
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/FirstViewController.o
+t1263207200
+s30384
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/FitNexusAppDelegate.o
+t1263207200
+s44404
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/GPSPong.LinkFileList
+c000000004B4B031C00000000000005AA
+t1263207196
+s1450
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/LocationGetter.o
+t1263207200
+s17048
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/SocialNetScreen.o
+t1263207201
+s29360
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/StatsScreen.o
+t1263299478
+s49616
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/StopWatchScreen.o
+t1263207201
+s29840
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/TrainingScreen.o
+t1263213875
+s50124
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/main.o
+t1263207200
+s6492
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/netCon.o
+t1263207201
+s15632
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/statsView.o
+t1263386647
+s27780
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/demostats_merged.png
+c000000004AAA72AE00000000000044DA
+t1252684462
+s17626
+
+N/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/main.m
+c000000004A953AFA0000000000000162
+t1251293946
+s354
+i<UIKit/UIKit.h>
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/../Icon_small.png
+c000000004BB8AE6100000000000012D5
+t1270394465
+s4821
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/AccelGetter.h
+c000000004AA10ACC0000000000000199
+t1252068044
+s409
+i<Foundation/Foundation.h>
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m
+c000000004AAEA270000000000001162D
+t1252958832
+s71213
+i"AccelGetter.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../DataBaseControler.m
+c000000004B13E430000000000000292C
+t1259594800
+s10540
+i"DataBaseControler.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../DataPoint.m
+c000000004B0EFA8D00000000000000DD
+t1259272845
+s221
+i"DataPoint.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../DataPointManager.m
+c000000004AA52BD700000000000000D3
+t1252338647
+s211
+i"DataPointManager.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m
+c000000004B41D2730000000000000604
+t1262604915
+s1540
+i"LocationGetter.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../MainWindow.xib
+c000000004BAB6B3B0000000000007F99
+t1269525307
+s32665
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../SecondView.xib
+c000000004AA146050000000000003126
+t1252083205
+s12582
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m
+c000000004BA8D1E7000000000001289B
+t1269354983
+s75931
+i"TrainingScreen.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.xib
+c000000004B41CFB900000000000029B9
+t1262604217
+s10681
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/AsyncSocket Documentation.html
+c0000000048A5A9630000000000018F67
+t1218816355
+s102247
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/AsyncSocket.h
+c0000000049E8E5A700000000000042A9
+t1239999911
+s17065
+i<Foundation/Foundation.h>
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/AsyncSocket.m
+c0000000049E8E5A7000000000001565E
+t1239999911
+s87646
+i"AsyncSocket.h"
+i<sys/socket.h>
+i<netinet/in.h>
+i<arpa/inet.h>
+i<netdb.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/Entitlements.plist
+c000000004B4B07F800000000000000E0
+t1263208440
+s224
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/FirstViewController.h
+c000000004A953AFA00000000000000E7
+t1251293946
+s231
+i<UIKit/UIKit.h>
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/FirstViewController.m
+c000000004ACDEA8D00000000000005A0
+t1255008909
+s1440
+i"FirstViewController.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/FitNexusAppDelegate.h
+c000000004A953AFA00000000000001D8
+t1251293946
+s472
+i<UIKit/UIKit.h>
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/FitNexusAppDelegate.m
+c000000004ACDFE3900000000000004BC
+t1255013945
+s1212
+i"FitNexusAppDelegate.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/READ ME.txt
+c0000000049E8E360000000000000019E
+t1239999328
+s414
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/SocialNetScreen.h
+c000000004AA4FD7F00000000000000DF
+t1252326783
+s223
+i<UIKit/UIKit.h>
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/SocialNetScreen.m
+c000000004AA4FD7F000000000000056A
+t1252326783
+s1386
+i"SocialNetScreen.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/SocialNetScreen.xib
+c000000004ACF32BA0000000000005ABA
+t1255092922
+s23226
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.h
+c000000004BA8D8F100000000000005E6
+t1269356785
+s1510
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i"statsView.h"
+i"LocationGetter.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m
+c000000004BA8DD52000000000000155D
+t1269357906
+s5469
+i"StatsScreen.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.xib
+c000000004BA8D52000000000000060F7
+t1269355808
+s24823
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StopWatchScreen.h
+c000000004AA4FD5600000000000000DF
+t1252326742
+s223
+i<UIKit/UIKit.h>
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StopWatchScreen.m
+c000000004ACC7E130000000000000568
+t1254915603
+s1384
+i"StopWatchScreen.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StopWatchScreen.xib
+c000000004ACF32E20000000000004715
+t1255092962
+s18197
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/graphView.xib
+c000000004ACC7F5D000000000000170A
+t1254915933
+s5898
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/netCon.h
+c000000004B0D5E3E000000000000030B
+t1259167294
+s779
+i"AsyncSocket.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/netCon.m
+c000000004B13F46E000000000000076D
+t1259598958
+s1901
+i"netCon.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/statsView.h
+c000000004BA8DD5400000000000003AA
+t1269357908
+s938
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/statsView.m
+c000000004BA8DE8700000000000017CE
+t1269358215
+s6094
+i"statsView.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/DataBaseControler.h
+c000000004B0D5F3D00000000000002EC
+t1259167549
+s748
+i<Foundation/Foundation.h>
+i"/usr/include/sqlite3.h"
+i"netCon.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/DataPoint.h
+c000000004AA52BBF00000000000000D5
+t1252338623
+s213
+i<Foundation/Foundation.h>
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/DataPointManager.h
+c000000004AA52BD700000000000000E3
+t1252338647
+s227
+i<Foundation/Foundation.h>
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/FitNexus_Prefix.pch
+c000000004A953AFA00000000000000B9
+t1251293946
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/GPSBall_Titles.png
+c000000004B4DD0E6000000000000562B
+t1263390950
+s22059
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/LocationGetter.h
+c000000004AA6845B0000000000000237
+t1252426843
+s567
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/TrainingScreen.h
+c000000004BA8D18C00000000000004AB
+t1269354892
+s1195
+i<UIKit/UIKit.h>
+i"AccelGetter.h"
+i"LocationGetter.h"
+i"statsView.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app.dSYM
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/AsyncSocket Documentation.html
+t1263207199
+s102247
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/Entitlements.plist
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/GPSBall_Titles.png
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/GPSPong
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/Icon_small.png
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/Info.plist
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/MainWindow.nib
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/PkgInfo
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/READ ME.txt
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/ResourceRules.plist
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/SecondView.nib
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/SocialNetScreen.nib
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/StatsScreen.nib
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/StopWatchScreen.nib
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/TrainingScreen.nib
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/demostats_merged.png
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/embedded.mobileprovision
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/graphView.nib
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/AccelGetter.o
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/AsyncSocket.o
+t1263207202
+s186700
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/DataBaseControler.o
+t1263207201
+s30412
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/DataPoint.o
+t1263207201
+s5072
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/DataPointManager.o
+t1263207201
+s5116
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/FirstViewController.o
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/FitNexusAppDelegate.o
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/GPSPong.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/LocationGetter.o
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/SocialNetScreen.o
+t1263207201
+s29360
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/StatsScreen.o
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/StopWatchScreen.o
+t1263207201
+s29840
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/TrainingScreen.o
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/netCon.o
+t1263207201
+s15632
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/statsView.o
+t2
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/demostats_merged.png
+c000000004AAA72AE00000000000044DA
+t1252684462
+s17626
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/main.m
+c000000004A953AFA0000000000000162
+t1251293946
+s354
+i<UIKit/UIKit.h>
+
+N/usr/include/sqlite3.h
+c000000004A11A408000000000003D86F
+t1242670088
+s252015
+
+N/var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-budofadwgszaadeofpmmhdkgervh/FitNexus_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-cqnperdcsayvzcfeirsidkbvjzhy/FitNexus_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-egegqzjliobechfzcokhgsazxdsz/FitNexus_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-fxptvnkaylsaradgtlnqjowvscsx/FitNexus_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-gxsfcnsnsktdqcextfvhyzsaylig/FitNexus_Prefix.pch.gch
+t2
+s0
+
+NFitNexus-Info.plist
+c000000004BB8E7A00000000000000369
+t1270409120
+s873
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292092345#292092345#0(96"[BEROR]CodeSign error: The entitlements file '/GPS_Paint/Classes/Entitlements.plist' is missing1(4@88"CodeSign error: The entitlements file '/GPS_Paint/Classes/Entitlements.plist' is missing292092345#18446744073709551615#0#0(1@0"0(0#1#0"4300911832#0"0#
+
+CCodeSign "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app"
+r0
+
+CCodeSign "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app"
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/AccelGetter.o "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/../AccelGetter.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/AccelGetter.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/AsyncSocket.o "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/AsyncSocket.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/AsyncSocket.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/AsyncSocket.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/DataBaseControler.o "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/../DataBaseControler.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/DataBaseControler.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../DataBaseControler.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/DataPoint.o "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/../DataPoint.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/DataPoint.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../DataPoint.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/DataPointManager.o "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/../DataPointManager.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/DataPointManager.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../DataPointManager.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/FirstViewController.o "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/FirstViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/FirstViewController.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/FirstViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/FitNexusAppDelegate.o "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/FitNexusAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/FitNexusAppDelegate.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/FitNexusAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/LocationGetter.o "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/../LocationGetter.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/LocationGetter.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/SocialNetScreen.o "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/SocialNetScreen.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/SocialNetScreen.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/SocialNetScreen.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/StatsScreen.o "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/StatsScreen.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/StatsScreen.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/StopWatchScreen.o "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/StopWatchScreen.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/StopWatchScreen.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StopWatchScreen.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/TrainingScreen.o "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/../TrainingScreen.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/TrainingScreen.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/main.o "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/main.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/netCon.o "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/netCon.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/netCon.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/netCon.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/statsView.o "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/statsView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GPSPong.build/Debug-iphoneos/GPSPong.build/Objects-normal/armv6/statsView.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/statsView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/../MainWindow.xib"
+r0
+
+CCompileXIB "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/../SecondView.xib"
+r0
+
+CCompileXIB "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/../TrainingScreen.xib"
+r0
+
+CCompileXIB "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/SocialNetScreen.xib"
+r0
+
+CCompileXIB "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/StatsScreen.xib"
+r0
+
+CCompileXIB "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/StopWatchScreen.xib"
+r0
+
+CCompileXIB "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/Classes/graphView.xib"
+r0
+
+CCompileXIB "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../MainWindow.xib"
+r0
+
+CCompileXIB "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../SecondView.xib"
+r0
+
+CCompileXIB "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.xib"
+r0
+
+CCompileXIB "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/SocialNetScreen.xib"
+r0
+
+CCompileXIB "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.xib"
+r0
+
+CCompileXIB "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StopWatchScreen.xib"
+r0
+
+CCompileXIB "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/graphView.xib"
+r0
+
+CCopyPNGFile "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app/GPSBall_Titles.png" GPSBall_Titles.png
+r0
+
+CCopyPNGFile "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app/demostats_merged.png" demostats_merged.png
+r0
+
+CCopyPNGFile "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/GPSBall_Titles.png" GPSBall_Titles.png
+r0
+
+CCopyPNGFile "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/Icon_small.png" ../Icon_small.png
+r0
+
+CCopyPNGFile "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/demostats_merged.png" demostats_merged.png
+r0
+
+CCopyPlistFile "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app/Entitlements.plist" Classes/Entitlements.plist
+r0
+
+CCopyPlistFile "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/Entitlements.plist" Classes/Entitlements.plist
+r0
+
+CCpResource "build/Debug-iphoneos/GPSPong.app/AsyncSocket Documentation.html" "Classes/AsyncSocket Documentation.html"
+r0
+
+CCpResource "build/Debug-iphoneos/GPSPong.app/READ ME.txt" "Classes/READ ME.txt"
+r0
+
+CCpResource build/Debug-iphoneos/GPSPong.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/GPSPong.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/GPSPong.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/GPSPong.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+r0
+
+CGenerateDSYMFile "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app.dSYM" "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app/GPSPong"
+r0
+
+CGenerateDSYMFile "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app.dSYM" "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/GPSPong"
+r0
+
+CLd "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app/GPSPong" normal armv6
+r0
+
+CLd "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/GPSPong" normal armv6
+r0
+
+CProcessInfoPlistFile "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app/Info.plist" FitNexus-Info.plist
+r0
+
+CProcessInfoPlistFile "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/Info.plist" FitNexus-Info.plist
+r0
+
+CProcessPCH /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-budofadwgszaadeofpmmhdkgervh/FitNexus_Prefix.pch.gch FitNexus_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-cqnperdcsayvzcfeirsidkbvjzhy/FitNexus_Prefix.pch.gch FitNexus_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-egegqzjliobechfzcokhgsazxdsz/FitNexus_Prefix.pch.gch FitNexus_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-fxptvnkaylsaradgtlnqjowvscsx/FitNexus_Prefix.pch.gch FitNexus_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-gxsfcnsnsktdqcextfvhyzsaylig/FitNexus_Prefix.pch.gch FitNexus_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/keithloughnane/Library/MobileDevice/Provisioning Profiles/4AF72C5D-D2DC-4F62-9E0A-11CF80A85F27.mobileprovision" "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging "/Users/keithloughnane/Library/MobileDevice/Provisioning Profiles/4AF72C5D-D2DC-4F62-9E0A-11CF80A85F27.mobileprovision" "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app/embedded.mobileprovision"
+r0
+
+CTouch "/Volumes/MINI_BACKUP/GPS Ball All/GPS_Paint/build/Debug-iphoneos/GPSPong.app"
+r0
+
+CTouch "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Debug-iphoneos/GPSPong.app"
+r0
+

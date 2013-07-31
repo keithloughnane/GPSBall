@@ -1,0 +1,718 @@
+TGPSBall
+v7
+r0
+t293935588.633839
+cCheck dependencies
+cCpResource build/Release-iphoneos/GPSBall.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/Info.plist" Info.plist
+cCompileXIB "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../MainWindow.xib"
+cCompileXIB "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../SecondView.xib"
+cCompileXIB "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.xib"
+cCompileXIB "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.xib"
+cCompileXIB "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StopWatchScreen.xib"
+cCompileXIB "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/SocialNetScreen.xib"
+cCopyPNGFile "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/demostats_merged.png" demostats_merged.png
+cCompileXIB "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/graphView.xib"
+cCpResource "build/Release-iphoneos/GPSBall.app/READ ME.txt" "Classes/READ ME.txt"
+cCopyPNGFile "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/GPSBall_Titles.png" GPSBall_Titles.png
+cCopyPNGFile "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/Icon_small.png" ../Icon_small.png
+cProcessPCH /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-epjpyiogysnrygcizitttsfujycc/FitNexus_Prefix.pch.gch FitNexus_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/main.o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/FitNexusAppDelegate.o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/FitNexusAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/FirstViewController.o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/FirstViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/TrainingScreen.o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/LocationGetter.o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/AccelGetter.o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/StatsScreen.o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/statsView.o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/statsView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/GPSBall" normal armv6
+cGenerateDSYMFile "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app.dSYM" "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/GPSBall"
+cProcessProductPackaging "/Users/keithloughnane/Library/MobileDevice/Provisioning Profiles/93783B5F-74B3-49F4-943A-7F2222899DCF.mobileprovision" "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/embedded.mobileprovision"
+cTouch "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall.xcent"
+cCodeSign "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk
+c000000004B79A1A50000000000000110
+t1266262437
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist
+c000000004B2B3B9F00000000000000DD
+t1261124511
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+c000000004B2B3B9F00000000000001E5
+t1261124511
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004B2B548B0000000000290670
+t1261130891
+s2688624
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B537900000000005F4900
+t1261130617
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004B2B61E30000000000084510
+t1261134307
+s541968
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004B2B61D300000000000001AF
+t1261134291
+s431
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B551F0000000000501370
+t1261131039
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B54F40000000000001355
+t1261130996
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004B2B652A000000000000017D
+t1261135146
+s381
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004B2B656100000000001CD6E0
+t1261135201
+s1890016
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61610000000000000788
+t1261134177
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B63DA0000000001B3F450
+t1261134810
+s28570704
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/usr/lib/libsqlite3.dylib
+c000000004B2B5093000000000010BF50
+t1261129875
+s1097552
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/../Icon_small.png
+c000000004BB8AE6100000000000012D5
+t1270394465
+s4821
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/AccelGetter.h
+c000000004AA10ACC0000000000000199
+t1252068044
+s409
+i<Foundation/Foundation.h>
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m
+c000000004AAEA270000000000001162D
+t1252958832
+s71213
+i"AccelGetter.h"
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m
+c000000004B41D2730000000000000604
+t1262604915
+s1540
+i"LocationGetter.h"
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../MainWindow.xib
+c000000004BAB6B3B0000000000007F99
+t1269525307
+s32665
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../SecondView.xib
+c000000004AA146050000000000003126
+t1252083205
+s12582
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m
+c000000004BA8D1E7000000000001289B
+t1269354983
+s75931
+i"TrainingScreen.h"
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.xib
+c000000004B41CFB900000000000029B9
+t1262604217
+s10681
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/FirstViewController.h
+c000000004A953AFA00000000000000E7
+t1251293946
+s231
+i<UIKit/UIKit.h>
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/FirstViewController.m
+c000000004ACDEA8D00000000000005A0
+t1255008909
+s1440
+i"FirstViewController.h"
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/FitNexusAppDelegate.h
+c000000004A953AFA00000000000001D8
+t1251293946
+s472
+i<UIKit/UIKit.h>
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/FitNexusAppDelegate.m
+c000000004ACDFE3900000000000004BC
+t1255013945
+s1212
+i"FitNexusAppDelegate.h"
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/READ ME.txt
+c0000000049E8E360000000000000019E
+t1239999328
+s414
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/SocialNetScreen.xib
+c000000004ACF32BA0000000000005ABA
+t1255092922
+s23226
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.h
+c000000004BA8D8F100000000000005E6
+t1269356785
+s1510
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i"statsView.h"
+i"LocationGetter.h"
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m
+c000000004BA8DD52000000000000155D
+t1269357906
+s5469
+i"StatsScreen.h"
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.xib
+c000000004BA8D52000000000000060F7
+t1269355808
+s24823
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StopWatchScreen.xib
+c000000004ACF32E20000000000004715
+t1255092962
+s18197
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/graphView.xib
+c000000004ACC7F5D000000000000170A
+t1254915933
+s5898
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/statsView.h
+c000000004BA8DD5400000000000003AA
+t1269357908
+s938
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/statsView.m
+c000000004BA8DE8700000000000017CE
+t1269358215
+s6094
+i"statsView.h"
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/FitNexus_Prefix.pch
+c000000004A953AFA00000000000000B9
+t1251293946
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/GPSBall_Titles.png
+c000000004B4DD0E6000000000000562B
+t1263390950
+s22059
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/LocationGetter.h
+c000000004AA6845B0000000000000237
+t1252426843
+s567
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/TrainingScreen.h
+c000000004BA8D18C00000000000004AB
+t1269354892
+s1195
+i<UIKit/UIKit.h>
+i"AccelGetter.h"
+i"LocationGetter.h"
+i"statsView.h"
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall.xcent
+t1272242788
+s319
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/AccelGetter.o
+t1272242787
+s12452
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/FirstViewController.o
+t1272242787
+s30316
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/FitNexusAppDelegate.o
+t1272242787
+s42204
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/GPSBall.LinkFileList
+c000000004BD4E25B000000000000048D
+t1272242779
+s1165
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/LocationGetter.o
+t1272242787
+s14572
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/StatsScreen.o
+t1272242788
+s44900
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/TrainingScreen.o
+t1272242787
+s40608
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/main.o
+t1272242787
+s6484
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/statsView.o
+t1272242788
+s24276
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app
+t1272242788
+s680
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app.dSYM
+t1272242788
+s102
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/GPSBall
+t1272242788
+s45596
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/GPSBall_Titles.png
+t1272242786
+s21584
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/Icon_small.png
+t1272242786
+s5334
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/Info.plist
+t1272242780
+s726
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/MainWindow.nib
+t1272242783
+s4417
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/PkgInfo
+t1272242780
+s8
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/READ ME.txt
+t1272242785
+s414
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/ResourceRules.plist
+t1272242780
+s485
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/SecondView.nib
+t1272242782
+s3437
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/SocialNetScreen.nib
+t1272242785
+s6850
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/StatsScreen.nib
+t1272242784
+s2921
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/StopWatchScreen.nib
+t1272242785
+s4971
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/TrainingScreen.nib
+t1272242784
+s2049
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/demostats_merged.png
+t1272242785
+s19112
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/embedded.mobileprovision
+t1272242788
+s7069
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/graphView.nib
+t1272242786
+s1106
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/demostats_merged.png
+c000000004AAA72AE00000000000044DA
+t1252684462
+s17626
+
+N/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/main.m
+c000000004A953AFA0000000000000162
+t1251293946
+s354
+i<UIKit/UIKit.h>
+
+N/Users/keithloughnane/Library/MobileDevice/Provisioning Profiles/93783B5F-74B3-49F4-943A-7F2222899DCF.mobileprovision
+c000000004BD4E1F20000000000001B9D
+t1272242674
+s7069
+
+N/var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-epjpyiogysnrygcizitttsfujycc/FitNexus_Prefix.pch.gch
+t1272242786
+s8208568
+
+NInfo.plist
+c000000004BD4E04A0000000000000378
+t1272242250
+s888
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies293935579#293935579#0(0"0(0#1#0"4300960984#0"0#
+
+CCodeSign "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app"
+s293935588.223707
+e293935588.633693
+r1
+xCodeSign
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app
+lSLF07#2@43"CodeSign build/Release-iphoneos/GPSBall.app293935588#293935588#0(0"0(0#0#92"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app4300960984#748"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Distribution: Malachy Kelly" "--resource-rules=/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/ResourceRules.plist" --entitlements "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall.xcent" "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app"0#
+
+CCompileC build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/AccelGetter.o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s293935587.593573
+e293935587.723211
+r1
+xCompileC
+xbuild/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/AccelGetter.o
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m: In function '-[AccelGetter initWithOwner:]':
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:19: warning: assignment from incompatible pointer type
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:21: warning: invalid receiver type 'id*'
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:21: warning: no '-getsAccel:::' method found
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:21: warning: (Messages without a matching method signature
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:21: warning: will be assumed to return 'id' and accept
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:21: warning: '...' as arguments.)
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m: In function '-[AccelGetter accelerometer:didAccelerate:]':
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:35: warning: invalid receiver type 'id*'
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:35: warning: no '-getsAccel:::' method found
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m: In function '-[AccelGetter setOwner:]':
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:13: warning: passing argument 4 of 'objc_setProperty' from incompatible pointer type
+lSLF07#2@90"Compile /Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m293935587#293935587#0(1603"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m: In function '-[AccelGetter initWithOwner:]':/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:19: warning: assignment from incompatible pointer type/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:21: warning: invalid receiver type 'id*'/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:21: warning: no '-getsAccel:::' method found/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:21: warning: (Messages without a matching method signature/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:21: warning: will be assumed to return 'id' and accept/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:21: warning: '...' as arguments.)/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m: In function '-[AccelGetter accelerometer:didAccelerate:]':/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:35: warning: invalid receiver type 'id*'/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:35: warning: no '-getsAccel:::' method found/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m: In function '-[AccelGetter setOwner:]':/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:13: warning: passing argument 4 of 'objc_setProperty' from incompatible pointer type7(22@41"Assignment from incompatible pointer type293935587#129#138#0(6@82"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m274651632#19#0#19#0#41"assignment from incompatible pointer type0(22@27"Invalid receiver type 'id*'293935587#267#124#0(6@82"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m274651632#21#0#21#0#0"0(22@31"No '-getsAccel:::' method found293935587#391#128#0(6@82"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m274651632#21#0#21#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)293935587#519#142#0(6@82"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m274651632#21#0#21#0#0"0(22@27"Invalid receiver type 'id*'293935587#1059#124#0(6@82"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m274651632#35#0#35#0#0"0(22@31"No '-getsAccel:::' method found293935587#1183#128#0(6@82"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m274651632#35#0#35#0#19"no '*' method found0(22@71"Passing argument 4 of 'objc_setProperty' from incompatible pointer type293935587#1435#168#0(6@82"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m274651632#13#0#13#0#56"passing argument * of '*' from incompatible pointer type0(0#0#82"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m4300960984#2021"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-generated-files.hmap" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-own-target-headers.hmap" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-all-target-headers.hmap" -iquote "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-project-headers.hmap" "-F/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/include" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/DerivedSources/armv6" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/DerivedSources" -include /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-epjpyiogysnrygcizitttsfujycc/FitNexus_Prefix.pch -c "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m" -o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/AccelGetter.o"0#
+
+CCompileC build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/FirstViewController.o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/FirstViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s293935587.227998
+e293935587.420131
+r1
+xCompileC
+xbuild/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/FirstViewController.o
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/FirstViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/FirstViewController.m293935587#293935587#0(0"0(0#0#87"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/FirstViewController.m4300960984#2034"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-generated-files.hmap" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-own-target-headers.hmap" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-all-target-headers.hmap" -iquote "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-project-headers.hmap" "-F/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/include" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/DerivedSources/armv6" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/DerivedSources" -include /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-epjpyiogysnrygcizitttsfujycc/FitNexus_Prefix.pch -c "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/FirstViewController.m" -o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/FirstViewController.o"0#
+
+CCompileC build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/FitNexusAppDelegate.o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/FitNexusAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s293935587.124058
+e293935587.306054
+r1
+xCompileC
+xbuild/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/FitNexusAppDelegate.o
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/FitNexusAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/FitNexusAppDelegate.m293935587#293935587#0(0"0(0#0#87"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/FitNexusAppDelegate.m4300960984#2034"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-generated-files.hmap" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-own-target-headers.hmap" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-all-target-headers.hmap" -iquote "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-project-headers.hmap" "-F/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/include" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/DerivedSources/armv6" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/DerivedSources" -include /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-epjpyiogysnrygcizitttsfujycc/FitNexus_Prefix.pch -c "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/FitNexusAppDelegate.m" -o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/FitNexusAppDelegate.o"0#
+
+CCompileC build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/LocationGetter.o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s293935587.420237
+e293935587.593459
+r1
+xCompileC
+xbuild/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/LocationGetter.o
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m: In function '-[LocationGetter initWithOwner:]':
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:21: warning: assignment from incompatible pointer type
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m: In function '-[LocationGetter locationManager:didUpdateToLocation:fromLocation:]':
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:47: warning: invalid receiver type 'id*'
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:47: warning: no '-getsLoc:::::' method found
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:47: warning: (Messages without a matching method signature
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:47: warning: will be assumed to return 'id' and accept
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:47: warning: '...' as arguments.)
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m: In function '-[LocationGetter setOwner:]':
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:13: warning: passing argument 4 of 'objc_setProperty' from incompatible pointer type
+lSLF07#2@93"Compile /Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m293935587#293935587#0(1411"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m: In function '-[LocationGetter initWithOwner:]':/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:21: warning: assignment from incompatible pointer type/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m: In function '-[LocationGetter locationManager:didUpdateToLocation:fromLocation:]':/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:47: warning: invalid receiver type 'id*'/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:47: warning: no '-getsLoc:::::' method found/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:47: warning: (Messages without a matching method signature/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:47: warning: will be assumed to return 'id' and accept/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:47: warning: '...' as arguments.)/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m: In function '-[LocationGetter setOwner:]':/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:13: warning: passing argument 4 of 'objc_setProperty' from incompatible pointer type5(22@41"Assignment from incompatible pointer type293935587#135#141#0(6@85"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m284297715#21#0#21#0#41"assignment from incompatible pointer type0(22@27"Invalid receiver type 'id*'293935587#446#127#0(6@85"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m284297715#47#0#47#0#0"0(22@31"No '-getsLoc:::::' method found293935587#573#131#0(6@85"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m284297715#47#0#47#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)293935587#704#145#0(6@85"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m284297715#47#0#47#0#0"0(22@71"Passing argument 4 of 'objc_setProperty' from incompatible pointer type293935587#1240#171#0(6@85"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m284297715#13#0#13#0#56"passing argument * of '*' from incompatible pointer type0(0#0#85"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m4300960984#2027"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-generated-files.hmap" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-own-target-headers.hmap" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-all-target-headers.hmap" -iquote "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-project-headers.hmap" "-F/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/include" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/DerivedSources/armv6" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/DerivedSources" -include /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-epjpyiogysnrygcizitttsfujycc/FitNexus_Prefix.pch -c "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m" -o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/LocationGetter.o"0#
+
+CCompileC build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/StatsScreen.o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s293935587.670236
+e293935588.077697
+r1
+xCompileC
+xbuild/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/StatsScreen.o
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m: In function '-[StatsScreen setLLat::]':
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:70: warning: 'statsView' may not respond to '-setLLat::'
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:70: warning: (Messages without a matching method signature
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:70: warning: will be assumed to return 'id' and accept
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:70: warning: '...' as arguments.)
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m: In function '-[StatsScreen setLLong::]':
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:75: warning: 'statsView' may not respond to '-setLLong::'
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m: At top level:
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:228: warning: property 'repeatingTimer' requires method '-repeatingTimer' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:228: warning: property 'repeatingTimer' requires the method 'setRepeatingTimer:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m: In function '-[StatsScreen getsLoc:::::]':
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:193: warning: control reaches end of non-void function
+lSLF07#2@87"Compile /Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m293935587#293935588#0(1729"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m: In function '-[StatsScreen setLLat::]':/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:70: warning: 'statsView' may not respond to '-setLLat::'/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:70: warning: (Messages without a matching method signature/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:70: warning: will be assumed to return 'id' and accept/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:70: warning: '...' as arguments.)/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m: In function '-[StatsScreen setLLong::]':/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:75: warning: 'statsView' may not respond to '-setLLong::'/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m: At top level:/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:228: warning: property 'repeatingTimer' requires method '-repeatingTimer' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:228: warning: property 'repeatingTimer' requires the method 'setRepeatingTimer:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m: In function '-[StatsScreen getsLoc:::::]':/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:193: warning: control reaches end of non-void function7(22@43"'statsView' may not respond to '-setLLat::'293935587#121#137#0(6@79"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m291050706#70#0#70#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)293935587#258#139#0(6@79"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m291050706#70#0#70#0#0"0(22@44"'statsView' may not respond to '-setLLong::'293935587#768#138#0(6@79"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m291050706#75#0#75#0#26"'*' may not respond to '*'0(23@13"At top level:293935587#906#95#0(6@79"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m291050706#0#0#0#0#0"0(22@136"Property 'repeatingTimer' requires method '-repeatingTimer' to be defined - use @synthesize, @dynamic or provide a method implementation293935587#1001#231#0(6@79"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m291050706#228#0#228#0#0"0(22@143"Property 'repeatingTimer' requires the method 'setRepeatingTimer:' to be defined - use @synthesize, @dynamic or provide a method implementation293935587#1232#238#0(6@79"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m291050706#228#0#228#0#0"0(22@40"Control reaches end of non-void function293935587#1594#135#0(6@79"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m291050706#193#0#193#0#40"control reaches end of non-void function0(0#0#79"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m4300960984#2018"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-generated-files.hmap" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-own-target-headers.hmap" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-all-target-headers.hmap" -iquote "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-project-headers.hmap" "-F/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/include" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/DerivedSources/armv6" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/DerivedSources" -include /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-epjpyiogysnrygcizitttsfujycc/FitNexus_Prefix.pch -c "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m" -o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/StatsScreen.o"0#
+
+CCompileC build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/TrainingScreen.o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s293935587.306172
+e293935587.670115
+r1
+xCompileC
+xbuild/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/TrainingScreen.o
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m: In function '-[TrainingScreen viewDidLoad]':
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m:43: warning: 'TrainingScreen' may not respond to '-setInterfaceOrientation:'
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m:43: warning: (Messages without a matching method signature
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m:43: warning: will be assumed to return 'id' and accept
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m:43: warning: '...' as arguments.)
+lSLF07#2@93"Compile /Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m293935587#293935587#0(701"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m: In function '-[TrainingScreen viewDidLoad]':/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m:43: warning: 'TrainingScreen' may not respond to '-setInterfaceOrientation:'/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m:43: warning: (Messages without a matching method signature/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m:43: warning: will be assumed to return 'id' and accept/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m:43: warning: '...' as arguments.)2(22@63"'TrainingScreen' may not respond to '-setInterfaceOrientation:'293935587#132#163#0(6@85"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m291047783#43#0#43#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)293935587#295#145#0(6@85"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m291047783#43#0#43#0#0"0(0#0#85"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m4300960984#2027"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-generated-files.hmap" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-own-target-headers.hmap" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-all-target-headers.hmap" -iquote "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-project-headers.hmap" "-F/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/include" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/DerivedSources/armv6" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/DerivedSources" -include /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-epjpyiogysnrygcizitttsfujycc/FitNexus_Prefix.pch -c "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m" -o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/TrainingScreen.o"0#
+
+CCompileC build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/main.o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s293935587.121941
+e293935587.227887
+r1
+xCompileC
+xbuild/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/main.o
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/main.m293935587#293935587#0(0"0(0#0#64"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/main.m4300960984#1996"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-generated-files.hmap" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-own-target-headers.hmap" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-all-target-headers.hmap" -iquote "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-project-headers.hmap" "-F/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/include" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/DerivedSources/armv6" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/DerivedSources" -include /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-epjpyiogysnrygcizitttsfujycc/FitNexus_Prefix.pch -c "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/main.m" -o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/main.o"0#
+
+CCompileC build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/statsView.o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/statsView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s293935587.723323
+e293935588.096757
+r1
+xCompileC
+xbuild/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/statsView.o
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/statsView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/statsView.m: In function '-[statsView drawRect:]':
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/statsView.m:202: warning: local declaration of 'loc1' hides instance variable
+lSLF07#2@85"Compile /Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/statsView.m293935587#293935588#0(261"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/statsView.m: In function '-[statsView drawRect:]':/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/statsView.m:202: warning: local declaration of 'loc1' hides instance variable1(22@51"Local declaration of 'loc1' hides instance variable293935587#117#144#0(6@77"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/statsView.m291051015#202#0#202#0#0"0(0#0#77"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/statsView.m4300960984#2014"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-generated-files.hmap" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-own-target-headers.hmap" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-all-target-headers.hmap" -iquote "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-project-headers.hmap" "-F/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/include" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/DerivedSources/armv6" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/DerivedSources" -include /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-epjpyiogysnrygcizitttsfujycc/FitNexus_Prefix.pch -c "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/statsView.m" -o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/statsView.o"0#
+
+CCompileXIB "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../MainWindow.xib"
+s293935580.009743
+e293935583.908618
+r1
+xCompileXIB
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../MainWindow.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/MainWindow.xib:147: warning: This label has its minimum font size set to a size that is greater than its current font size.
+lSLF07#2@36"CompileXIB Classes/../MainWindow.xib293935580#293935583#0(223"/* com.apple.ibtool.document.warnings *//Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/MainWindow.xib:147: warning: This label has its minimum font size set to a size that is greater than its current font size.1(22@94"This label has its minimum font size set to a size that is greater than its current font size.293935583#18446744073709551615#0#0(6@72"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/MainWindow.xib291218107#147#0#147#0#0"0(0#0#83"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../MainWindow.xib4300960984#544"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/MainWindow.nib" "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../MainWindow.xib"0#
+
+CCompileXIB "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../SecondView.xib"
+s293935580.010572
+e293935582.906240
+r1
+xCompileXIB
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../SecondView.xib
+lSLF07#2@36"CompileXIB Classes/../SecondView.xib293935580#293935582#0(0"0(0#0#83"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../SecondView.xib4300960984#544"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/SecondView.nib" "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../SecondView.xib"0#
+
+CCompileXIB "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.xib"
+s293935582.906433
+e293935584.333716
+r1
+xCompileXIB
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.xib
+lSLF07#2@40"CompileXIB Classes/../TrainingScreen.xib293935582#293935584#0(0"0(0#0#87"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.xib4300960984#552"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/TrainingScreen.nib" "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.xib"0#
+
+CCompileXIB "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/SocialNetScreen.xib"
+s293935584.902776
+e293935585.838627
+r1
+xCompileXIB
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/SocialNetScreen.xib
+lSLF07#2@38"CompileXIB Classes/SocialNetScreen.xib293935584#293935585#0(0"0(0#0#85"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/SocialNetScreen.xib4300960984#551"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/SocialNetScreen.nib" "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/SocialNetScreen.xib"0#
+
+CCompileXIB "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.xib"
+s293935583.908719
+e293935584.902621
+r1
+xCompileXIB
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.xib
+lSLF07#2@34"CompileXIB Classes/StatsScreen.xib293935583#293935584#0(0"0(0#0#81"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.xib4300960984#543"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/StatsScreen.nib" "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.xib"0#
+
+CCompileXIB "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StopWatchScreen.xib"
+s293935584.333832
+e293935585.328824
+r1
+xCompileXIB
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StopWatchScreen.xib
+lSLF07#2@38"CompileXIB Classes/StopWatchScreen.xib293935584#293935585#0(0"0(0#0#85"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StopWatchScreen.xib4300960984#551"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/StopWatchScreen.nib" "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/StopWatchScreen.xib"0#
+
+CCompileXIB "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/graphView.xib"
+s293935585.644586
+e293935586.177179
+r1
+xCompileXIB
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/graphView.xib
+lSLF07#2@32"CompileXIB Classes/graphView.xib293935585#293935586#0(0"0(0#0#79"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/graphView.xib4300960984#539"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/graphView.nib" "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/graphView.xib"0#
+
+CCopyPNGFile "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/GPSBall_Titles.png" GPSBall_Titles.png
+s293935585.840893
+e293935586.228322
+r1
+xCopyPNGFile
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/GPSBall_Titles.png
+xGPSBall_Titles.png
+lSLF07#2@84"CopyPNGFile build/Release-iphoneos/GPSBall.app/GPSBall_Titles.png GPSBall_Titles.png293935585#293935586#0(0"0(0#0#76"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/GPSBall_Titles.png4300960984#641"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/GPSBall_Titles.png" "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/GPSBall_Titles.png"0#
+
+CCopyPNGFile "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/Icon_small.png" ../Icon_small.png
+s293935586.177289
+e293935586.233772
+r1
+xCopyPNGFile
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/Icon_small.png
+x../Icon_small.png
+lSLF07#2@79"CopyPNGFile build/Release-iphoneos/GPSBall.app/Icon_small.png ../Icon_small.png293935586#293935586#0(0"0(0#0#75"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/../Icon_small.png4300960984#636"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/../Icon_small.png" "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/Icon_small.png"0#
+
+CCopyPNGFile "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/demostats_merged.png" demostats_merged.png
+s293935585.328941
+e293935585.644484
+r1
+xCopyPNGFile
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/demostats_merged.png
+xdemostats_merged.png
+lSLF07#2@88"CopyPNGFile build/Release-iphoneos/GPSBall.app/demostats_merged.png demostats_merged.png293935585#293935585#0(0"0(0#0#78"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/demostats_merged.png4300960984#645"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/demostats_merged.png" "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/demostats_merged.png"0#
+
+CCpResource "build/Release-iphoneos/GPSBall.app/READ ME.txt" "Classes/READ ME.txt"
+s293935585.838730
+e293935585.857757
+r1
+xCpResource
+xbuild/Release-iphoneos/GPSBall.app/READ ME.txt
+xClasses/READ ME.txt
+lSLF07#2@24"Copy Classes/READ ME.txt293935585#293935585#0(0"0(0#0#77"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/READ ME.txt4300960984#535"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Classes/READ ME.txt" "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app"0#
+
+CCpResource build/Release-iphoneos/GPSBall.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+s293935579.998209
+e293935580.009640
+r1
+xCpResource
+xbuild/Release-iphoneos/GPSBall.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+lSLF07#2@96"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist293935579#293935580#0(0"0(0#0#91"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist8028903794874265600#547"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app"0#
+
+CGenerateDSYMFile "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app.dSYM" "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/GPSBall"
+s293935588.175424
+e293935588.206006
+r1
+xGenerateDSYMFile
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app.dSYM
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/GPSBall
+lSLF07#2@99"GenerateDSYMFile build/Release-iphoneos/GPSBall.app.dSYM build/Release-iphoneos/GPSBall.app/GPSBall293935588#293935588#0(0"0(0#0#100"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/GPSBall4300960984#429"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/GPSBall" -o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app.dSYM"0#
+
+CLd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/GPSBall" normal armv6
+s293935588.096861
+e293935588.175319
+r1
+xLd
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/GPSBall
+xnormal
+xarmv6
+lSLF07#2@105"Link /Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/GPSBall293935588#293935588#0(0"0(0#0#0"4300960984#1024"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk "-L/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos" "-F/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos" -filelist "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/Objects-normal/armv6/GPSBall.LinkFileList" -dead_strip -miphoneos-version-min=3.1.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -lsqlite3 -framework MapKit -framework CFNetwork -lsqlite3 -o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/GPSBall"0#
+
+CProcessInfoPlistFile "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/Info.plist" Info.plist
+s293935580.000162
+e293935580.004600
+r1
+xProcessInfoPlistFile
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist293935580#293935580#0(0"0(0#0#68"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/Info.plist4300960984#644"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/ResourceRules.plist" -o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/Info.plist"0#
+
+CProcessPCH /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-epjpyiogysnrygcizitttsfujycc/FitNexus_Prefix.pch.gch FitNexus_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s293935586.233917
+e293935587.121704
+r1
+xProcessPCH
+x/var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-epjpyiogysnrygcizitttsfujycc/FitNexus_Prefix.pch.gch
+xFitNexus_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile FitNexus_Prefix.pch293935586#293935587#0(0"0(0#0#77"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/FitNexus_Prefix.pch4300960984#1872"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-generated-files.hmap" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-own-target-headers.hmap" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-all-target-headers.hmap" -iquote "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall-project-headers.hmap" "-F/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/include" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/DerivedSources/armv6" "-I/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/DerivedSources" -c "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/FitNexus_Prefix.pch" -o /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-epjpyiogysnrygcizitttsfujycc/FitNexus_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/keithloughnane/Library/MobileDevice/Provisioning Profiles/93783B5F-74B3-49F4-943A-7F2222899DCF.mobileprovision" "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/embedded.mobileprovision"
+s293935588.206110
+e293935588.207407
+r1
+xProcessProductPackaging
+x/Users/keithloughnane/Library/MobileDevice/Provisioning Profiles/93783B5F-74B3-49F4-943A-7F2222899DCF.mobileprovision
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/embedded.mobileprovision
+lSLF07#2@203"ProcessProductPackaging "/Users/keithloughnane/Library/MobileDevice/Provisioning Profiles/93783B5F-74B3-49F4-943A-7F2222899DCF.mobileprovision" build/Release-iphoneos/GPSBall.app/embedded.mobileprovision293935588#293935588#0(0"0(0#0#117"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/embedded.mobileprovision4300960984#476"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/keithloughnane/Library/MobileDevice/Provisioning Profiles/93783B5F-74B3-49F4-943A-7F2222899DCF.mobileprovision" -o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall.xcent"
+s293935588.211422
+e293935588.223612
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall.xcent
+lSLF07#2@179"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall.xcent293935588#293935588#0(0"0(0#0#122"/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall.xcent4300960984#478"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist -entitlements -format xml -o "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphoneos/GPSBall.build/GPSBall.xcent"0#
+
+CTouch "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app"
+s293935588.207481
+e293935588.211328
+r1
+xTouch
+x/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app
+lSLF07#2@98"Touch /Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app293935588#293935588#0(0"0(0#0#0"4300960984#308"    cd "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/keithloughnane/Desktop/GPS Ball All Prime/GPS_Ball/build/Release-iphoneos/GPSBall.app"0#
+

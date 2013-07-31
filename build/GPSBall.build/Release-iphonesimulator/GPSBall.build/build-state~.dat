@@ -1,0 +1,609 @@
+TGPSBall
+v7
+r0
+t293646956.762608
+cCheck dependencies
+cProcessInfoPlistFile "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/Info.plist" Info.plist
+cCompileXIB "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../MainWindow.xib"
+cCompileXIB "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../SecondView.xib"
+cCompileXIB "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.xib"
+cCompileXIB "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.xib"
+cCompileXIB "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StopWatchScreen.xib"
+cCompileXIB "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/SocialNetScreen.xib"
+cCpResource build/Release-iphonesimulator/FitNexus.app/demostats_merged.png demostats_merged.png
+cCompileXIB "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/graphView.xib"
+cCpResource "build/Release-iphonesimulator/FitNexus.app/READ ME.txt" "Classes/READ ME.txt"
+cCpResource build/Release-iphonesimulator/FitNexus.app/GPSBall_Titles.png GPSBall_Titles.png
+cCpResource build/Release-iphonesimulator/FitNexus.app/Icon_small.png ../Icon_small.png
+cProcessPCH /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-dwcoiihkiufqizaqhytrjalvirhb/FitNexus_Prefix.pch.gch FitNexus_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/main.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/FitNexusAppDelegate.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/FitNexusAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/FirstViewController.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/FirstViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/TrainingScreen.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/LocationGetter.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/AccelGetter.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/StatsScreen.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/statsView.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/statsView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/FitNexus" normal i386
+cGenerateDSYMFile "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app.dSYM" "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/FitNexus"
+cTouch "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B99753100000000000000EE
+t1268348209
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004B2B4D570000000000108540
+t1261129047
+s1082688
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026DB60
+t1261128899
+s2546528
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004B2B61C30000000000049D50
+t1261134275
+s302416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004B2B61BC00000000000001AF
+t1261134268
+s431
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027D5E0
+t1261129160
+s2610656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004B2B634C000000000000017D
+t1261134668
+s381
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004B2B6372000000000010D890
+t1261134706
+s1104016
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B50000000001670F70
+t1261134517
+s23531376
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/lib/libsqlite3.dylib
+c000000004B2B49D500000000000C39E0
+t1261128149
+s801248
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/../Icon_small.png
+c000000004BB8AE6100000000000012D5
+t1270394465
+s4821
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/AccelGetter.h
+c000000004AA10ACC0000000000000199
+t1252068044
+s409
+i<Foundation/Foundation.h>
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m
+c000000004AAEA270000000000001162D
+t1252958832
+s71213
+i"AccelGetter.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m
+c000000004B41D2730000000000000604
+t1262604915
+s1540
+i"LocationGetter.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../MainWindow.xib
+c000000004BAB6B3B0000000000007F99
+t1269525307
+s32665
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../SecondView.xib
+c000000004AA146050000000000003126
+t1252083205
+s12582
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m
+c000000004BA8D1E7000000000001289B
+t1269354983
+s75931
+i"TrainingScreen.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.xib
+c000000004B41CFB900000000000029B9
+t1262604217
+s10681
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/FirstViewController.h
+c000000004A953AFA00000000000000E7
+t1251293946
+s231
+i<UIKit/UIKit.h>
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/FirstViewController.m
+c000000004ACDEA8D00000000000005A0
+t1255008909
+s1440
+i"FirstViewController.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/FitNexusAppDelegate.h
+c000000004A953AFA00000000000001D8
+t1251293946
+s472
+i<UIKit/UIKit.h>
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/FitNexusAppDelegate.m
+c000000004ACDFE3900000000000004BC
+t1255013945
+s1212
+i"FitNexusAppDelegate.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/READ ME.txt
+c0000000049E8E360000000000000019E
+t1239999328
+s414
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/SocialNetScreen.xib
+c000000004ACF32BA0000000000005ABA
+t1255092922
+s23226
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.h
+c000000004BA8D8F100000000000005E6
+t1269356785
+s1510
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i"statsView.h"
+i"LocationGetter.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m
+c000000004BA8DD52000000000000155D
+t1269357906
+s5469
+i"StatsScreen.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.xib
+c000000004BA8D52000000000000060F7
+t1269355808
+s24823
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StopWatchScreen.xib
+c000000004ACF32E20000000000004715
+t1255092962
+s18197
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/graphView.xib
+c000000004ACC7F5D000000000000170A
+t1254915933
+s5898
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/statsView.h
+c000000004BA8DD5400000000000003AA
+t1269357908
+s938
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/statsView.m
+c000000004BA8DE8700000000000017CE
+t1269358215
+s6094
+i"statsView.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/FitNexus_Prefix.pch
+c000000004A953AFA00000000000000B9
+t1251293946
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/GPSBall_Titles.png
+c000000004B4DD0E6000000000000562B
+t1263390950
+s22059
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/LocationGetter.h
+c000000004AA6845B0000000000000237
+t1252426843
+s567
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/TrainingScreen.h
+c000000004BA8D18C00000000000004AB
+t1269354892
+s1195
+i<UIKit/UIKit.h>
+i"AccelGetter.h"
+i"LocationGetter.h"
+i"statsView.h"
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/AccelGetter.o
+t1271954154
+s10724
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/FirstViewController.o
+t1271954152
+s30536
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/FitNexus.LinkFileList
+c000000004BD07AE200000000000004B5
+t1271954146
+s1205
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/FitNexusAppDelegate.o
+t1271954152
+s41348
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/LocationGetter.o
+t1271954153
+s12616
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/StatsScreen.o
+t1271954154
+s43064
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/TrainingScreen.o
+t1271954153
+s39456
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/main.o
+t1271954151
+s5964
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/statsView.o
+t1271954155
+s21976
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app
+t1271954156
+s4096
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app.dSYM
+t1271954156
+s0
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/FitNexus
+t1271954155
+s41188
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/GPSBall_Titles.png
+t1263392080
+s22059
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/Icon_small.png
+t1271954150
+s4821
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/Info.plist
+t1271954148
+s607
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/MainWindow.nib
+t1271954150
+s5349
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/PkgInfo
+t1271954148
+s8
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/READ ME.txt
+t1263392080
+s414
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/SecondView.nib
+t1263392079
+s3437
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/SocialNetScreen.nib
+t1263392080
+s6772
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/StatsScreen.nib
+t1271954149
+s3309
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/StopWatchScreen.nib
+t1263392080
+s4970
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/TrainingScreen.nib
+t1263392079
+s2049
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/demostats_merged.png
+t1263392080
+s17626
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/graphView.nib
+t1263392080
+s1106
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/demostats_merged.png
+c000000004AAA72AE00000000000044DA
+t1252684462
+s17626
+
+N/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/main.m
+c000000004A953AFA0000000000000162
+t1251293946
+s354
+i<UIKit/UIKit.h>
+
+N/var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-dwcoiihkiufqizaqhytrjalvirhb/FitNexus_Prefix.pch.gch
+t1271954151
+s12731856
+
+NInfo.plist
+c000000004BBB647D0000000000000369
+t1270572157
+s873
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies293646935#293646948#0(0"0(0#1#0"4300739032#0"0#
+
+CCompileC build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/AccelGetter.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s293646953.569131
+e293646954.303721
+r1
+xCompileC
+xbuild/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/AccelGetter.o
+x/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m: In function '-[AccelGetter initWithOwner:]':
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:19: warning: assignment from incompatible pointer type
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:21: warning: invalid receiver type 'id*'
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:21: warning: no '-getsAccel:::' method found
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:21: warning: (Messages without a matching method signature
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:21: warning: will be assumed to return 'id' and accept
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:21: warning: '...' as arguments.)
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m: In function '-[AccelGetter accelerometer:didAccelerate:]':
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:35: warning: invalid receiver type 'id*'
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:35: warning: no '-getsAccel:::' method found
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m: In function '-[AccelGetter setOwner:]':
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:13: warning: passing argument 4 of 'objc_setProperty' from incompatible pointer type
+lSLF07#2@89"Compile /Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m293646953#293646954#0(1591"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m: In function '-[AccelGetter initWithOwner:]':/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:19: warning: assignment from incompatible pointer type/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:21: warning: invalid receiver type 'id*'/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:21: warning: no '-getsAccel:::' method found/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:21: warning: (Messages without a matching method signature/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:21: warning: will be assumed to return 'id' and accept/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:21: warning: '...' as arguments.)/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m: In function '-[AccelGetter accelerometer:didAccelerate:]':/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:35: warning: invalid receiver type 'id*'/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:35: warning: no '-getsAccel:::' method found/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m: In function '-[AccelGetter setOwner:]':/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m:13: warning: passing argument 4 of 'objc_setProperty' from incompatible pointer type7(22@41"Assignment from incompatible pointer type293646954#128#137#0(6@81"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m274651632#19#0#19#0#41"assignment from incompatible pointer type0(22@27"Invalid receiver type 'id*'293646954#265#123#0(6@81"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m274651632#21#0#21#0#0"0(22@31"No '-getsAccel:::' method found293646954#388#127#0(6@81"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m274651632#21#0#21#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)293646954#515#141#0(6@81"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m274651632#21#0#21#0#0"0(22@27"Invalid receiver type 'id*'293646954#1051#123#0(6@81"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m274651632#35#0#35#0#0"0(22@31"No '-getsAccel:::' method found293646954#1174#127#0(6@81"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m274651632#35#0#35#0#19"no '*' method found0(22@71"Passing argument 4 of 'objc_setProperty' from incompatible pointer type293646954#1424#167#0(6@81"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m274651632#13#0#13#0#56"passing argument * of '*' from incompatible pointer type0(0#0#81"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m4300739032#2145"    cd "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-generated-files.hmap" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-own-target-headers.hmap" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-all-target-headers.hmap" -iquote "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-project-headers.hmap" "-F/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/include" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/DerivedSources/i386" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/DerivedSources" -include /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-dwcoiihkiufqizaqhytrjalvirhb/FitNexus_Prefix.pch -c "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../AccelGetter.m" -o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/AccelGetter.o"0#
+
+CCompileC build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/FirstViewController.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/FirstViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s293646951.921368
+e293646952.633523
+r1
+xCompileC
+xbuild/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/FirstViewController.o
+x/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/FirstViewController.m293646951#293646952#0(0"0(0#0#86"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/FirstViewController.m4300739032#2158"    cd "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-generated-files.hmap" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-own-target-headers.hmap" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-all-target-headers.hmap" -iquote "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-project-headers.hmap" "-F/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/include" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/DerivedSources/i386" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/DerivedSources" -include /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-dwcoiihkiufqizaqhytrjalvirhb/FitNexus_Prefix.pch -c "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/FirstViewController.m" -o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/FirstViewController.o"0#
+
+CCompileC build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/FitNexusAppDelegate.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/FitNexusAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s293646951.491983
+e293646952.373489
+r1
+xCompileC
+xbuild/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/FitNexusAppDelegate.o
+x/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/FitNexusAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/FitNexusAppDelegate.m293646951#293646952#0(0"0(0#0#86"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/FitNexusAppDelegate.m4300739032#2158"    cd "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-generated-files.hmap" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-own-target-headers.hmap" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-all-target-headers.hmap" -iquote "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-project-headers.hmap" "-F/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/include" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/DerivedSources/i386" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/DerivedSources" -include /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-dwcoiihkiufqizaqhytrjalvirhb/FitNexus_Prefix.pch -c "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/FitNexusAppDelegate.m" -o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/FitNexusAppDelegate.o"0#
+
+CCompileC build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/LocationGetter.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s293646952.633643
+e293646953.568890
+r1
+xCompileC
+xbuild/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/LocationGetter.o
+x/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m: In function '-[LocationGetter initWithOwner:]':
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:21: warning: assignment from incompatible pointer type
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m: In function '-[LocationGetter locationManager:didUpdateToLocation:fromLocation:]':
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:47: warning: invalid receiver type 'id*'
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:47: warning: no '-getsLoc:::::' method found
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:47: warning: (Messages without a matching method signature
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:47: warning: will be assumed to return 'id' and accept
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:47: warning: '...' as arguments.)
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m: In function '-[LocationGetter setOwner:]':
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:13: warning: passing argument 4 of 'objc_setProperty' from incompatible pointer type
+lSLF07#2@92"Compile /Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m293646952#293646953#0(1401"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m: In function '-[LocationGetter initWithOwner:]':/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:21: warning: assignment from incompatible pointer type/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m: In function '-[LocationGetter locationManager:didUpdateToLocation:fromLocation:]':/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:47: warning: invalid receiver type 'id*'/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:47: warning: no '-getsLoc:::::' method found/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:47: warning: (Messages without a matching method signature/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:47: warning: will be assumed to return 'id' and accept/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:47: warning: '...' as arguments.)/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m: In function '-[LocationGetter setOwner:]':/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m:13: warning: passing argument 4 of 'objc_setProperty' from incompatible pointer type5(22@41"Assignment from incompatible pointer type293646953#134#140#0(6@84"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m284297715#21#0#21#0#41"assignment from incompatible pointer type0(22@27"Invalid receiver type 'id*'293646953#443#126#0(6@84"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m284297715#47#0#47#0#0"0(22@31"No '-getsLoc:::::' method found293646953#569#130#0(6@84"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m284297715#47#0#47#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)293646953#699#144#0(6@84"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m284297715#47#0#47#0#0"0(22@71"Passing argument 4 of 'objc_setProperty' from incompatible pointer type293646953#1231#170#0(6@84"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m284297715#13#0#13#0#56"passing argument * of '*' from incompatible pointer type0(0#0#84"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m4300739032#2151"    cd "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-generated-files.hmap" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-own-target-headers.hmap" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-all-target-headers.hmap" -iquote "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-project-headers.hmap" "-F/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/include" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/DerivedSources/i386" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/DerivedSources" -include /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-dwcoiihkiufqizaqhytrjalvirhb/FitNexus_Prefix.pch -c "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../LocationGetter.m" -o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/LocationGetter.o"0#
+
+CCompileC build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/StatsScreen.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s293646953.598363
+e293646954.878927
+r1
+xCompileC
+xbuild/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/StatsScreen.o
+x/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m: In function '-[StatsScreen setLLat::]':
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:70: warning: 'statsView' may not respond to '-setLLat::'
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:70: warning: (Messages without a matching method signature
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:70: warning: will be assumed to return 'id' and accept
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:70: warning: '...' as arguments.)
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m: In function '-[StatsScreen setLLong::]':
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:75: warning: 'statsView' may not respond to '-setLLong::'
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m: At top level:
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:228: warning: property 'repeatingTimer' requires method '-repeatingTimer' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:228: warning: property 'repeatingTimer' requires the method 'setRepeatingTimer:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m: In function '-[StatsScreen getsLoc:::::]':
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:193: warning: control reaches end of non-void function
+lSLF07#2@86"Compile /Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m293646953#293646954#0(1717"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m: In function '-[StatsScreen setLLat::]':/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:70: warning: 'statsView' may not respond to '-setLLat::'/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:70: warning: (Messages without a matching method signature/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:70: warning: will be assumed to return 'id' and accept/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:70: warning: '...' as arguments.)/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m: In function '-[StatsScreen setLLong::]':/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:75: warning: 'statsView' may not respond to '-setLLong::'/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m: At top level:/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:228: warning: property 'repeatingTimer' requires method '-repeatingTimer' to be defined - use @synthesize, @dynamic or provide a method implementation/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:228: warning: property 'repeatingTimer' requires the method 'setRepeatingTimer:' to be defined - use @synthesize, @dynamic or provide a method implementation/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m: In function '-[StatsScreen getsLoc:::::]':/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m:193: warning: control reaches end of non-void function7(22@43"'statsView' may not respond to '-setLLat::'293646954#120#136#0(6@78"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m291050706#70#0#70#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)293646954#256#138#0(6@78"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m291050706#70#0#70#0#0"0(22@44"'statsView' may not respond to '-setLLong::'293646954#762#137#0(6@78"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m291050706#75#0#75#0#26"'*' may not respond to '*'0(23@13"At top level:293646954#899#94#0(6@78"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m291050706#0#0#0#0#0"0(22@136"Property 'repeatingTimer' requires method '-repeatingTimer' to be defined - use @synthesize, @dynamic or provide a method implementation293646954#993#230#0(6@78"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m291050706#228#0#228#0#0"0(22@143"Property 'repeatingTimer' requires the method 'setRepeatingTimer:' to be defined - use @synthesize, @dynamic or provide a method implementation293646954#1223#237#0(6@78"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m291050706#228#0#228#0#0"0(22@40"Control reaches end of non-void function293646954#1583#134#0(6@78"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m291050706#193#0#193#0#40"control reaches end of non-void function0(0#0#78"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m4300739032#2142"    cd "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-generated-files.hmap" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-own-target-headers.hmap" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-all-target-headers.hmap" -iquote "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-project-headers.hmap" "-F/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/include" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/DerivedSources/i386" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/DerivedSources" -include /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-dwcoiihkiufqizaqhytrjalvirhb/FitNexus_Prefix.pch -c "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.m" -o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/StatsScreen.o"0#
+
+CCompileC build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/TrainingScreen.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s293646952.373608
+e293646953.598180
+r1
+xCompileC
+xbuild/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/TrainingScreen.o
+x/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m: In function '-[TrainingScreen viewDidLoad]':
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m:43: warning: 'TrainingScreen' may not respond to '-setInterfaceOrientation:'
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m:43: warning: (Messages without a matching method signature
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m:43: warning: will be assumed to return 'id' and accept
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m:43: warning: '...' as arguments.)
+lSLF07#2@92"Compile /Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m293646952#293646953#0(696"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m: In function '-[TrainingScreen viewDidLoad]':/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m:43: warning: 'TrainingScreen' may not respond to '-setInterfaceOrientation:'/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m:43: warning: (Messages without a matching method signature/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m:43: warning: will be assumed to return 'id' and accept/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m:43: warning: '...' as arguments.)2(22@63"'TrainingScreen' may not respond to '-setInterfaceOrientation:'293646953#131#162#0(6@84"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m291047783#43#0#43#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)293646953#293#144#0(6@84"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m291047783#43#0#43#0#0"0(0#0#84"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m4300739032#2151"    cd "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-generated-files.hmap" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-own-target-headers.hmap" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-all-target-headers.hmap" -iquote "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-project-headers.hmap" "-F/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/include" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/DerivedSources/i386" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/DerivedSources" -include /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-dwcoiihkiufqizaqhytrjalvirhb/FitNexus_Prefix.pch -c "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.m" -o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/TrainingScreen.o"0#
+
+CCompileC build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/main.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s293646951.457722
+e293646951.921148
+r1
+xCompileC
+xbuild/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/main.o
+x/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/main.m293646951#293646951#0(0"0(0#0#63"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/main.m4300739032#2120"    cd "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-generated-files.hmap" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-own-target-headers.hmap" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-all-target-headers.hmap" -iquote "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-project-headers.hmap" "-F/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/include" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/DerivedSources/i386" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/DerivedSources" -include /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-dwcoiihkiufqizaqhytrjalvirhb/FitNexus_Prefix.pch -c "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/main.m" -o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/statsView.o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/statsView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s293646954.303859
+e293646955.285802
+r1
+xCompileC
+xbuild/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/statsView.o
+x/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/statsView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/statsView.m: In function '-[statsView drawRect:]':
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/statsView.m:202: warning: local declaration of 'loc1' hides instance variable
+lSLF07#2@84"Compile /Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/statsView.m293646954#293646955#0(259"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/statsView.m: In function '-[statsView drawRect:]':/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/statsView.m:202: warning: local declaration of 'loc1' hides instance variable1(22@51"Local declaration of 'loc1' hides instance variable293646954#116#143#0(6@76"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/statsView.m291051015#202#0#202#0#0"0(0#0#76"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/statsView.m4300739032#2138"    cd "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-generated-files.hmap" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-own-target-headers.hmap" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-all-target-headers.hmap" -iquote "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-project-headers.hmap" "-F/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/include" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/DerivedSources/i386" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/DerivedSources" -include /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-dwcoiihkiufqizaqhytrjalvirhb/FitNexus_Prefix.pch -c "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/statsView.m" -o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/statsView.o"0#
+
+CCompileXIB "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../MainWindow.xib"
+s293646948.636104
+e293646950.507945
+r1
+xCompileXIB
+x/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../MainWindow.xib
+o/* com.apple.ibtool.document.warnings */
+o/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/MainWindow.xib:147: warning: This label has its minimum font size set to a size that is greater than its current font size.
+lSLF07#2@36"CompileXIB Classes/../MainWindow.xib293646948#293646950#0(222"/* com.apple.ibtool.document.warnings *//Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/MainWindow.xib:147: warning: This label has its minimum font size set to a size that is greater than its current font size.1(22@94"This label has its minimum font size set to a size that is greater than its current font size.293646950#18446744073709551615#0#0(6@71"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/MainWindow.xib291218107#147#0#147#0#0"0(0#0#82"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../MainWindow.xib4300739032#556"    cd "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/MainWindow.nib" "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../MainWindow.xib"0#
+
+CCompileXIB "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../SecondView.xib"
+r0
+
+CCompileXIB "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/../TrainingScreen.xib"
+r0
+
+CCompileXIB "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/SocialNetScreen.xib"
+r0
+
+CCompileXIB "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.xib"
+s293646948.676742
+e293646950.025391
+r1
+xCompileXIB
+x/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.xib
+lSLF07#2@34"CompileXIB Classes/StatsScreen.xib293646948#293646950#0(0"0(0#0#80"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.xib4300739032#555"    cd "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/StatsScreen.nib" "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StatsScreen.xib"0#
+
+CCompileXIB "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/StopWatchScreen.xib"
+r0
+
+CCompileXIB "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Classes/graphView.xib"
+r0
+
+CCpResource "build/Release-iphonesimulator/FitNexus.app/READ ME.txt" "Classes/READ ME.txt"
+r0
+
+CCpResource build/Release-iphonesimulator/FitNexus.app/GPSBall_Titles.png GPSBall_Titles.png
+r0
+
+CCpResource build/Release-iphonesimulator/FitNexus.app/Icon_small.png ../Icon_small.png
+s293646950.025729
+e293646950.206321
+r1
+xCpResource
+xbuild/Release-iphonesimulator/FitNexus.app/Icon_small.png
+x../Icon_small.png
+lSLF07#2@22"Copy ../Icon_small.png293646950#293646950#0(0"0(0#0#74"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/../Icon_small.png4300739032#545"    cd "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/../Icon_small.png" "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app"0#
+
+CCpResource build/Release-iphonesimulator/FitNexus.app/demostats_merged.png demostats_merged.png
+r0
+
+CGenerateDSYMFile "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app.dSYM" "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/FitNexus"
+s293646955.797166
+e293646956.665750
+r1
+xGenerateDSYMFile
+x/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app.dSYM
+x/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/FitNexus
+lSLF07#2@116"GenerateDSYMFile build/Release-iphonesimulator/FitNexus.app.dSYM build/Release-iphonesimulator/FitNexus.app/FitNexus293646955#293646956#0(0"0(0#0#108"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/FitNexus4300739032#450"    cd "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/FitNexus" -o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app.dSYM"0#
+
+CLd "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/FitNexus" normal i386
+s293646955.285962
+e293646955.797035
+r1
+xLd
+x/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/FitNexus
+xnormal
+xi386
+lSLF07#2@113"Link /Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/FitNexus293646955#293646955#0(0"0(0#0#0"4300739032#1058"    cd "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk "-L/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator" "-F/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator" -filelist "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/Objects-normal/i386/FitNexus.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -lsqlite3 -framework MapKit -framework CFNetwork -lsqlite3 -o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/FitNexus"0#
+
+CProcessInfoPlistFile "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/Info.plist" Info.plist
+s293646948.181955
+e293646948.635984
+r1
+xProcessInfoPlistFile
+x/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist293646948#293646948#0(0"0(0#0#67"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/Info.plist4300739032#537"    cd "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app/Info.plist"0#
+
+CProcessPCH /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-dwcoiihkiufqizaqhytrjalvirhb/FitNexus_Prefix.pch.gch FitNexus_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s293646950.508177
+e293646951.457587
+r1
+xProcessPCH
+x/var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-dwcoiihkiufqizaqhytrjalvirhb/FitNexus_Prefix.pch.gch
+xFitNexus_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile FitNexus_Prefix.pch293646950#293646951#0(0"0(0#0#76"/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/FitNexus_Prefix.pch4300739032#1991"    cd "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-generated-files.hmap" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-own-target-headers.hmap" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-all-target-headers.hmap" -iquote "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/FitNexus-project-headers.hmap" "-F/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/include" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/DerivedSources/i386" "-I/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/GPSBall.build/Release-iphonesimulator/GPSBall.build/DerivedSources" -c "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/FitNexus_Prefix.pch" -o /var/folders/EX/EXQ79A1cEXy5xEx9TORh+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FitNexus_Prefix-dwcoiihkiufqizaqhytrjalvirhb/FitNexus_Prefix.pch.gch0#
+
+CTouch "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app"
+s293646956.665855
+e293646956.762544
+r1
+xTouch
+x/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app
+lSLF07#2@105"Touch /Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app293646956#293646956#0(0"0(0#0#0"4300739032#321"    cd "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Volumes/MINI_FILES/PROJECTS/GPS Ball All Prime/GPS_Ball/build/Release-iphonesimulator/FitNexus.app"0#
+

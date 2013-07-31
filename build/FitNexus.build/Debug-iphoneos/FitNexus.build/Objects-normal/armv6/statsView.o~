@@ -1,0 +1,51 @@
+/GPS_Paint/Classes/statsView.m: In function '-[statsView setLT:]':
+/GPS_Paint/Classes/statsView.m:64: error: array subscript is not an integer
+/GPS_Paint/Classes/statsView.m: In function '-[statsView setLLat:]':
+/GPS_Paint/Classes/statsView.m:70: error: array subscript is not an integer
+/GPS_Paint/Classes/statsView.m: In function '-[statsView setLLong:]':
+/GPS_Paint/Classes/statsView.m:76: error: array subscript is not an integer
+/GPS_Paint/Classes/statsView.m: At top level:
+/GPS_Paint/Classes/statsView.m:135: warning: incomplete implementation of class 'statsView'
+/GPS_Paint/Classes/statsView.m:135: warning: method definition for '-setLLong::' not found
+/GPS_Paint/Classes/statsView.m:135: warning: method definition for '-setLLat::' not found
+/GPS_Paint/Classes/statsView.m:135: warning: method definition for '-setLT::' not found
+{standard input}:568:non-relocatable subtraction expression, "L_OBJC_IVAR_$_statsView.aZ$non_lazy_ptr" minus "L40"
+{standard input}:568:symbol: "L_OBJC_IVAR_$_statsView.aZ$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:518:non-relocatable subtraction expression, "L_OBJC_IVAR_$_statsView.aY$non_lazy_ptr" minus "L35"
+{standard input}:518:symbol: "L_OBJC_IVAR_$_statsView.aY$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:468:non-relocatable subtraction expression, "L_OBJC_IVAR_$_statsView.aX$non_lazy_ptr" minus "L30"
+{standard input}:468:symbol: "L_OBJC_IVAR_$_statsView.aX$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:418:non-relocatable subtraction expression, "L_OBJC_IVAR_$_statsView.aTime$non_lazy_ptr" minus "L25"
+{standard input}:418:symbol: "L_OBJC_IVAR_$_statsView.aTime$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:365:non-relocatable subtraction expression, "L_OBJC_IVAR_$_statsView.llong$non_lazy_ptr" minus "L18"
+{standard input}:365:symbol: "L_OBJC_IVAR_$_statsView.llong$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:364:non-relocatable subtraction expression, "L_OBJC_IVAR_$_statsView.llat$non_lazy_ptr" minus "L17"
+{standard input}:364:symbol: "L_OBJC_IVAR_$_statsView.llat$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:363:non-relocatable subtraction expression, "L_OBJC_IVAR_$_statsView.lTime$non_lazy_ptr" minus "L16"
+{standard input}:363:symbol: "L_OBJC_IVAR_$_statsView.lTime$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:362:non-relocatable subtraction expression, "L_OBJC_IVAR_$_statsView.aZ$non_lazy_ptr" minus "L15"
+{standard input}:362:symbol: "L_OBJC_IVAR_$_statsView.aZ$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:361:non-relocatable subtraction expression, "L_OBJC_IVAR_$_statsView.aY$non_lazy_ptr" minus "L14"
+{standard input}:361:symbol: "L_OBJC_IVAR_$_statsView.aY$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:360:non-relocatable subtraction expression, "L_OBJC_IVAR_$_statsView.aX$non_lazy_ptr" minus "L13"
+{standard input}:360:symbol: "L_OBJC_IVAR_$_statsView.aX$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:359:non-relocatable subtraction expression, "L_OBJC_IVAR_$_statsView.aTime$non_lazy_ptr" minus "L12"
+{standard input}:359:symbol: "L_OBJC_IVAR_$_statsView.aTime$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:358:non-relocatable subtraction expression, "L_OBJC_IVAR_$_statsView.myOwner$non_lazy_ptr" minus "L9"
+{standard input}:358:symbol: "L_OBJC_IVAR_$_statsView.myOwner$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:124:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L3"
+{standard input}:124:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+{standard input}:123:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L2"
+{standard input}:123:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+{standard input}:unknown:Undefined local symbol L_objc_msgSendSuper2$stub
+{standard input}:unknown:Undefined local symbol L_NSLog$stub
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_statsView.myOwner$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_statsView.aTime$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_statsView.aX$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_statsView.aY$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_statsView.aZ$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_statsView.lTime$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_statsView.llat$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_statsView.llong$non_lazy_ptr
